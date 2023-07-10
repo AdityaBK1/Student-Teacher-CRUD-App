@@ -1,3 +1,23 @@
+## 💼 __PROJECT__ __NAME__ 💼 __:__ __STUDENT__ __TEACHER__ __CRUD__ __APP__
+---------------------------------------------------------------------------------------------------------------
+### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "resonant-beignet-51cb09.netlify.app/"
+---------------------------------------------------------------------------------------------------------------
+### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of details of about Student & Teacher where you can able to Create,Read,Update,Delete
+---------------------------------------------------------------------------------------------------------------
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Educational Applications
+---------------------------------------------------------------------------------------------------------------
+### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
+* HTML
+* CSS
+* BOOTSTRAP
+* REACT JS
+* JSX
+* PROPS DRILLING
+---------------------------------------------------------------------------------------------------------------
+### 📷 __IMAGES__ 📷 __:__
+---------------------------------------------------------------------------------------------------------------
+### If you like it remember to give repo a star ⭐.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
